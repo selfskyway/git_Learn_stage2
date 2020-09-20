@@ -1,0 +1,1 @@
+//hello this js i made and all are set now it is added to master created by sky
